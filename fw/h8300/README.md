@@ -2,8 +2,8 @@
 
 ## Entrypoint
 
-Vector table: 0x0000
-Entrypoint Address: 0x0000 - 0x0001
+- Vector table: 0x0000
+- Entrypoint Address: 0x0000 - 0x0001
 
 Entrypoints:
 - EOS V1.34: 0x0166
